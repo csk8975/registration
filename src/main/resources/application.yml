@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active:
+      - test
+  thymeleaf:
+    mode: LEGACYHTML5
